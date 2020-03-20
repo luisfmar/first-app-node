@@ -1,8 +1,9 @@
 # Pruebas con NodeJS
 
 ## Instalacion de paquetes
+```
 npm install
-
+```
 ### Bases-node
 Contiene una app para crear o mostrar tablas de multiplicar
 
