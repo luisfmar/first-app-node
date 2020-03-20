@@ -1,0 +1,4 @@
+node_modules/
+bases-node/tablas/
+.idea
+package-lock.json
